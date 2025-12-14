@@ -43,12 +43,6 @@ g++ main.cpp -o main -ldl
 
 ---
 
-## Key Idea
-
-Instead of resolving symbols at link time, the program loads the shared object dynamically and looks up function addresses at runtime. This allows the main binary to remain independent of the library until execution.
-
----
-
 ## Platform Notes
 
 This example uses the POSIX `dlfcn` API and works on Linux and other Unix-like systems.
