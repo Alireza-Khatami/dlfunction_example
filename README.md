@@ -1,4 +1,4 @@
-Here is a clean, concise **README.md** you can place in the repository:
+
 
 ---
 
