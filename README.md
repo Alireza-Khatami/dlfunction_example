@@ -1,7 +1,3 @@
-
-
----
-
 # Dynamic Function Loading in C++ with `dlfcn`
 
 This repository demonstrates how to load a shared library **at runtime** in C++ and call its functions **without linking against the library at build time**.
